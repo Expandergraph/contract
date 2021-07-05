@@ -1,0 +1,3 @@
+[submodule "canvas-node"]
+	path = canvas-node
+	url = https://github.com/paritytech/canvas-node.git
